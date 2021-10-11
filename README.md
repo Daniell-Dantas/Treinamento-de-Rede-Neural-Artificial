@@ -5,7 +5,7 @@
 💻 Como trabalho proposto na disciplina Redes Neurais Artificiais da graduação em Engenharia Elétrica, este é um código básico que implementa, passo a passo, o processo de treinamento de uma Perceptron de Múltiplas Camadas por meio do algoritmo backpropagtion. Para isso, foi utilizado um banco de dados conhecido para problemas de classificação, o dataset <a href="https://archive.ics.uci.edu/ml/datasets/iris">Iris</a> 🌼
 </p>
   
-OBS: O código tem por objetivo exemplificar a etapa de treino 🏋🏾‍♀ e atualização dos pesos, as outras etapas importnates como validação cruzada e teste não estão presentes neste código.
+OBS: O código tem por objetivo exemplificar a etapa de treino 🏋🏾‍♀ e atualização dos pesos, as outras etapas importantes como validação cruzada e teste não estão presentes neste código.
 
 # Modelo de Neurônio
 <p align="justify">
