@@ -1,4 +1,4 @@
-# Rede-Perceptron-Multi-Camadas
+# Treinamento de Rede Neural
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/67600860/136825544-05c9b3d4-d5ce-4e81-a4c9-0b30acb13628.gif)
 
 <p align="justify">
